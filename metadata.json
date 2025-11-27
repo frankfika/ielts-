@@ -1,0 +1,8 @@
+{
+  "name": "IELTS Pro - Immersive Mock Test",
+  "description": "A visually immersive, AI-powered IELTS Speaking mock exam simulator using Gemini Live API with real-time audio/video interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
